@@ -1,7 +1,7 @@
 # Sprint 1
 
 ## Sprint Goal
-Implement the core database functions.
+Setting up the project enviroment and documents & Implement the core database functions.
 
 ## Tasks
 | Issue # | Task | Assignee | Status | Estimated Hours | Description |
