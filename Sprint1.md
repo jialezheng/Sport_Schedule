@@ -10,10 +10,14 @@ Implement basic client-server communication.
 ## Tasks
 | Issue # | Task | Assignee | Status | Estimated Hours |
 |----------|-------|----------|--------|------------------|
-| #12 | Implement socket client | John | Open | 5 |
-| #13 | Server response handling | Sarah | Open | 4 |
-| #14 | Testing | Mike | Open | 3 |
+| #1 | UI Design | Kanoa Kakihara | Closed | 3 |
+| #28 | reservation records storing | Jack Ferrence | Closed | 2 |
+| #29 | Court Information Table | Jack Ferrence | Closed | 2 |
+| #30 | Time Slot Structure | Jack Ferrence | Closed | 2 |
+| #31 | User Data Storage | Jack Ferrence | Closed | 2 |
+
 
 ## Project Modifications
 - Development officially started this week.
 - Initial setup took longer than expected.
+- 
