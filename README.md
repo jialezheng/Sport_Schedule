@@ -1,3 +1,3 @@
 # Sport_Schedule
 
-https://dazzling-truffle-124c50.netlify.app/
+https://biolascheduling.netlify.app/
