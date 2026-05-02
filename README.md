@@ -125,13 +125,4 @@ See [`DEPLOY.md`](./DEPLOY.md) for full Netlify + Neon setup instructions
 (Postgres provisioning, environment variables, scheduled functions, and
 verifying the deploy).
 
-## Team
-
-| Member | Role |
-| ------ | ---- |
-| Jiale (K) Zheng    | Frontend Lead |
-| Jack Ferrence      | Backend / Database |
-| _Teammate 3_       | Frontend / UX |
-| _Teammate 4_       | QA & Documentation |
-
 Biola University · CSCI 450 · Spring 2026
