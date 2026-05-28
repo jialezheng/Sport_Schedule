@@ -4,8 +4,6 @@ A web application for browsing Biola University and La Mirada community sports
 facilities, posting and joining pickup games, and viewing campus events on a
 combined calendar.
 
-**Live demo:** https://biolascheduling.netlify.app/
-
 CSCI 450 — Software Engineering, Spring 2026.
 
 ---
